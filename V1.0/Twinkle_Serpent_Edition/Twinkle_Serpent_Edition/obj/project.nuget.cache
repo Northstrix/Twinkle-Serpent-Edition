@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "00+3INlw0L+rXFulgSgb/8A+NZdQrRzalj9qZ9eVWGowViC835qOuEytt+bcoayvpoeoyJ2prDRBgO9VuGwVSA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ok\\source\\repos\\Twinkle_Serpent_Edition\\Twinkle_Serpent_Edition\\Twinkle_Serpent_Edition.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ok\\.nuget\\packages\\bouncycastle.netcore\\2.2.1\\bouncycastle.netcore.2.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}
